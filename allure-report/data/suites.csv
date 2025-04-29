@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","523","Admin tries to Login with wrong creds","Daily Finance","Tue Apr 29 06:37:44 BDT 2025","passed","Tue Apr 29 06:37:44 BDT 2025","testrunner.LoginTestRunner","Admin user Login","testrunner.LoginTestRunner","loginWithWrongCreds"
+"","309","Admin user Login","Daily Finance","Tue Apr 29 06:37:44 BDT 2025","passed","Tue Apr 29 06:37:45 BDT 2025","testrunner.LoginTestRunner","Admin user Login","testrunner.LoginTestRunner","adminLogin"
+"","7447","User edit by admin","Daily Finance","Tue Apr 29 06:37:56 BDT 2025","passed","Tue Apr 29 06:38:03 BDT 2025","testrunner.UserProfileTestRunner","User Profile Login","testrunner.UserProfileTestRunner","editUserInfo"
+"","3124","User Registration","Daily Finance","Tue Apr 29 06:37:49 BDT 2025","passed","Tue Apr 29 06:37:52 BDT 2025","testrunner.RegistrationTestRunner","User Registration","testrunner.RegistrationTestRunner","userRegistration"
+"","2140","Admin Logout","Daily Finance","Tue Apr 29 06:37:45 BDT 2025","passed","Tue Apr 29 06:37:47 BDT 2025","testrunner.LoginTestRunner","Admin user Login","testrunner.LoginTestRunner","logout"
+"","205","User Login","Daily Finance","Tue Apr 29 06:37:47 BDT 2025","passed","Tue Apr 29 06:37:47 BDT 2025","testrunner.LoginTestRunner","Admin user Login","testrunner.LoginTestRunner","userLogin"
